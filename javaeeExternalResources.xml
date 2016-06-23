@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.ultraq.net.nz/thymeleaf/layout" location="$USER_HOME$/projects/LayoutDialect.xml" />
+  </component>
+</application>
